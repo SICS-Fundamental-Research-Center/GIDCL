@@ -8,7 +8,7 @@ We provide the checkpoint for our method in each stage, as well as the training/
 - For all the data, please unzip the GEIL_Data.zip in the root folder and use the data in GEIL_Data
 ## Requirement
 
-Please check the requirements in DITTO(https://github.com/megagonlabs/ditto),LLaMa-Factory(https://github.com/hiyouga/LLaMA-Factory) and vllm(https://github.com/vllm-project/vllm) for requirements.
+Please check the requirements in DITTO(https://github.com/megagonlabs/ditto), LLaMa-Factory(https://github.com/hiyouga/LLaMA-Factory) and vllm(https://github.com/vllm-project/vllm) for requirements.
 
 
 ## Original data
@@ -41,7 +41,7 @@ We apply a data-augmented sequence classification model to detect the error. The
 GEIL_Data/dataset/detector/train.csv
 GEIL_Data/dataset/detector/test.csv
 ```
-For training/inference, please check `detector_train.ipynb` for details. The classifier is based on roberta-base LM model, and please replace hp_simple.lm args as well as all the roberta-base model path in detector/model.py to your roberta-base model path
+For training/inference, please check `detector_train.ipynb` for details. The classifier is based on roberta-base LM model, and please replace hp_simple.lm args as well as all the roberta-base model path in ditto/model.py to your roberta-base model path
 
 The detector result is outputed in an 1-d array, and you should pre-process it to fit the shape of the dirty_table for indicator(e.g. for beers dataset, we omit the first 2 rows index/id)
 
@@ -110,7 +110,7 @@ For reproduce, we also provide the inference result for $\mathcal{M}_G$ in
 ```
 GEIL_Data/dataset/correction/test_output.csv
 ```
-For IMDB, due to the large size of correction, we cut the result in 4.
+For IMDB, due to the large size of correction, we cut the result in 4 parts.
 ### Output and Evaluation
 After $\mathcal{M}_G$ and VAD correction, the output file is processed and stored in 
 ```
