@@ -4,7 +4,8 @@ This repository contains the code for the paper "Graph-Enhanced Interpretable Da
 We provide the checkpoint for our method in each stage, as well as the training/inference code for error detection and error correction.
 
 ## Data Download
-Due to the large size of the data and checkpoint, we upload all the related files into a zip file in link. Please download the zip file and unzip the GEIL_Data folder to GEIL_Data folder.
+- Due to the large size of the data and checkpoint, we upload all the related checkpoint into a zip file in link. Please download the zip file and unzip the GEIL_ckpt folder to GEIL_ckpt folder.
+- For all the data, please unzip the GEIL_Data.zip in the root folder and use the data in GEIL_Data
 ## Requirement
 
 Please check the requirements in DITTO(https://github.com/megagonlabs/ditto),LLaMa-Factory(https://github.com/hiyouga/LLaMA-Factory) and vllm(https://github.com/vllm-project/vllm) for requirements.
@@ -70,7 +71,7 @@ GEIL_Data/dataset/correction/test.json
 ```
 and the fine-tuned LoRA checkpoint is provided in
 ```
-GEIL_Data/dataset/correction/dataset-train
+GEIL_ckpt/dataset-train
 ```
 For Training, please use the following command:
 ```
@@ -116,3 +117,5 @@ After $\mathcal{M}_G$ and VAD correction, the output file is processed and store
 GEIL_Data/dataset/correction/result/correction.csv
 ```
 And the evaluation for error detection/correction is provided in `eval.ipynb`.
+
+

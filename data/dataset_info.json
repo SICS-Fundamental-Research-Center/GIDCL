@@ -1,0 +1,48 @@
+{
+    "beers-train": {
+        "file_name": "../GEIL_Data/beers/correction/train.json",
+        "file_sha1": "0766b43a1e8f9b3e7d0c770804fa68179752dbf9",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output"
+        }
+      },
+      "hospital-train": {
+        "file_name": "../GEIL_Data/hospital/correction/train.json",
+        "file_sha1": "adaf86cc43012b96dc8a8427b4faa204a2930941",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output"
+        }
+      },
+      "imdb-train": {
+        "file_name": "../GEIL_Data/imdb/correction/train.json",
+        "file_sha1": "a30645846a61551790edd6b60a40f4d45abad1ed",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output"
+        }
+      },
+      "rayyan-train": {
+        "file_name": "../GEIL_Data/rayyan/correction/train.json",
+        "file_sha1": "22165873741237686c1a6303d0c7927314a68006",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output"
+        }
+      },
+      "tax-train": {
+        "file_name": "../GEIL_Data/tax/correction/train.json",
+        "file_sha1": "e744828d33021c4a714f2ac1a87a3c73be67652c",
+        "columns": {
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output"
+        }
+      },
+  }
+  
