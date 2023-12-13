@@ -4,7 +4,7 @@ This repository contains the code for the paper "Graph-Enhanced Interpretable Da
 We provide the checkpoint for our method in each stage, as well as the training/inference code for error detection and error correction.
 
 ## Data Download
-- Due to the large size of the data and checkpoint, we upload all the related checkpoint into a zip file in link. Please download the zip file and unzip the GEIL_ckpt folder to GEIL_ckpt folder.
+- Due to the large size of the data and checkpoint, we upload all the related checkpoint into a zip file in [link](https://drive.google.com/file/d/1-D_bPJVsN6sTkcNKWJ-9BA3Mci-JpBPa/view?usp=drive_link). Please download the zip file and unzip the GEIL_ckpt folder to GEIL_ckpt folder.
 - For all the data, please unzip the GEIL_Data.zip in the root folder and use the data in GEIL_Data
 ## Requirement
 
