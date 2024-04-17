@@ -650,7 +650,7 @@ def simple_train_update(trainset, validset, testset, hp,optimizer, model_input=F
     if(isinstance(model_input,DittoModel)):
         model = model_input.cuda()
     elif os.path.isfile(model_input):
-        model,optimizer = load_model_update(model_input,'/home/yanmy/roberta-base',use_gpu=True,lr=hp.lr,fp16=True)
+        model,optimizer = load_model_update(model_input,'roberta-base',use_gpu=True,lr=hp.lr,fp16=True)
         # model = model.cuda()
     else:
         model = DittoModel(device=device,
