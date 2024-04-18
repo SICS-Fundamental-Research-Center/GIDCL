@@ -1,5 +1,8 @@
 # Graph-Enhanced Interpretable Data Cleaning with Large Language Models
-This repository contains the code for the paper "Graph-Enhanced Interpretable Data Cleaning with Large Language Models"
+This repository contains the code for the paper "GEIL: A Graph-Enhanced Interpretable Data Cleaning Framework
+with Large Language Models"
+
+A full version, containing Model Architecture/Prompt Template/Additional Experiment Result is in [Full Version](./supplementary/Graph_Enhanced_Interpretable_Data_Cleaning_with_Large_Language_Models___SIGMOD_v8.pdf)
 
 We provide the checkpoint for our method in each stage, as well as the training/inference code for error detection and error correction.
 
@@ -96,15 +99,15 @@ WANDB_MODE=disabled accelerate launch src/train_bash.py
 --lora_target q_proj,v_proj 
 --save_steps 50
 ```
-Please replace the `model_name_or_path` to your model path, and add your own training file by modifying the `data/dataset_info.json`.
+Please replace the `model_name_or_path` to your model path, and add your own training file by modifying the `data/dataset_info.json`. If apply Mistral-7B, please replace `template` to `mistral`, and modify the `model_name_or_path` accordingly.
 
-For training, the minimal requirement is 1\*32G GPU memory(1\*V100 recommended) for 13B model, and 1\*24G GPU memory(1\*3090 recommended) for model <=7B, and multiple GPU can speed up the training. Our test is conducted on vicuna-13b-1.3 model(https://huggingface.co/lmsys/vicuna-13b-v1.3) with 4\*V100 GPU.
+For training, the minimal requirement is 1\*32G GPU memory(1\*V100 recommended) for 13B model, and 1\*24G GPU memory(1\*RTX 3090 recommended) for model <=7B, and multiple GPUs can speed up the training/inference. Our test is conducted on [Mistral-7b-Instruct-0.2 model](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2) with 4\* RTX 3090 GPUs, and [vicuna-13b-1.3 model](https://huggingface.co/lmsys/vicuna-13b-v1.3) with 4\*V100 GPUs.
 
 For inference, please use the following command:
 ```
 CUDA_VISIBLE_DEVICES=0 python vllm_inference_api.py -checkpoint_dir checkpoint-dir -test_file GEIL_Data/dataset/correction/test.json --count 0 --json
 ```
-In `vllm_inference_api.py`, please replace the `model_name_or_path` to your model path for vicuna-13b-1.3 model(https://huggingface.co/lmsys/vicuna-13b-v1.3), and `output_path` to your output path for the temp model. The output will be stored in `inference` folder.
+In `vllm_inference_api.py`, please replace the `model_name_or_path` to your model path for vicuna-13b/Mistral-7b model, and `output_path` to your output path for the temp model. The output will be stored in `inference` folder.
 
 For reproduce, we also provide the inference result for $\mathcal{M}_G$ in 
 ```
