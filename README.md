@@ -2,7 +2,7 @@
 This repository contains the code for the paper "GEIL: A Graph-Enhanced Interpretable Data Cleaning Framework
 with Large Language Models"
 
-A full version, containing Model Architecture/Prompt Template/Additional Experiment Result is in [Full Version](./supplementary/Graph_Enhanced_Interpretable_Data_Cleaning_with_Large_Language_Models___SIGMOD_v10_full_version.pdf)
+A full version, containing Model Architecture/Prompt Template/Additional Experiment Result is in [Full Version](./supplementary/GIDCL_Revision_v3_with_appendix.pdf)
 
 We provide the checkpoint for our method in each stage, as well as the training/inference code for error detection and error correction.
 
