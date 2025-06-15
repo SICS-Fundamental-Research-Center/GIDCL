@@ -1,4 +1,3 @@
-# utils/load_dataset.py
 import numpy as np
 import pandas as pd
 import os
@@ -18,53 +17,33 @@ from torch_geometric.data import (
 )
 class DatasetLoader:
     def __init__(self, base_path='GEIL_Data'):
-        """
-        初始化DatasetLoader。
-        
-        Args:
-            base_path (str): 存储数据集的根目录路径。
-        """
         self.base_path = base_path
 
     def load_dataset(self, dataset_name):
-        """
-        根据数据集名称加载并返回脏数据和干净数据表。
-
-        Args:
-            dataset_name (str): 要加载的数据集名称，例如 'Beers'。
-
-        Returns:
-            tuple: 包含两个pandas DataFrame的元组 (dirty_table, clean_table)。
-                   如果数据集不存在或加载失败，则返回 (None, None)。
-        """
         dirty_table = None
         clean_table = None
 
         if dataset_name.lower() == 'beers':
-            # === 'Beers' 数据集的特定代码块开始 ==
-                # 确保路径正确，这里假定 GEIL_Data 在项目的根目录
-                beer_clean = pd.read_csv(os.path.join(self.base_path, 'beers', 'original', 'clean.csv')).fillna('')
-                beer_dirty = pd.read_csv(os.path.join(self.base_path, 'beers', 'original', 'dirty.csv')).fillna('')
-                
-                beer_dirty.columns = beer_clean.columns
-                
-                def try_convert_to_int(row):
-                    for x,y in row.items():
-                        if(x in ['ounces','ibu']):
-                            try:
-                                row[x] = int(y)
-                            except:
-                                row[x] = y
-                    return row
-                
-                beer_dirty = beer_dirty.apply(try_convert_to_int,axis=1).astype(str)
-                beer_clean = beer_clean.apply(try_convert_to_int,axis=1).astype(str)
-                dirty_table = beer_dirty
-                clean_table = beer_clean
+            beer_clean = pd.read_csv(os.path.join(self.base_path, 'beers', 'original', 'clean.csv')).fillna('')
+            beer_dirty = pd.read_csv(os.path.join(self.base_path, 'beers', 'original', 'dirty.csv')).fillna('')
+            
+            beer_dirty.columns = beer_clean.columns
+            
+            def try_convert_to_int(row):
+                for x,y in row.items():
+                    if(x in ['ounces','ibu']):
+                        try:
+                            row[x] = int(y)
+                        except:
+                            row[x] = y
+                return row
+            
+            beer_dirty = beer_dirty.apply(try_convert_to_int,axis=1).astype(str)
+            beer_clean = beer_clean.apply(try_convert_to_int,axis=1).astype(str)
+            dirty_table = beer_dirty
+            clean_table = beer_clean
             
         elif dataset_name.lower() == 'hospital':
-            # === 'Beers' 数据集的特定代码块开始 ===
-                # 确保路径正确，这里假定 GEIL_Data 在项目的根目录
             hospital_clean = pd.read_csv('GEIL_Data/hospital/original/clean.csv').astype(str)
             hospital_dirty = pd.read_csv('GEIL_Data/hospital/original/dirty.csv').astype(str)
             hospital_dirty.columns = hospital_clean.columns
@@ -72,18 +51,14 @@ class DatasetLoader:
             clean_table = hospital_clean
             
         elif dataset_name.lower() == 'flights':
-            # === 'Beers' 数据集的特定代码块开始 ===
-                # 确保路径正确，这里假定 GEIL_Data 在项目的根目录
-                beer_clean = pd.read_csv(os.path.join(self.base_path, 'flights', 'original', 'clean.csv')).fillna('')
-                beer_dirty = pd.read_csv(os.path.join(self.base_path, 'flights', 'original', 'dirty.csv')).fillna('')
-                
-                beer_dirty.columns = beer_clean.columns
-                dirty_table = beer_dirty
-                clean_table = beer_clean
+            beer_clean = pd.read_csv(os.path.join(self.base_path, 'flights', 'original', 'clean.csv')).fillna('')
+            beer_dirty = pd.read_csv(os.path.join(self.base_path, 'flights', 'original', 'dirty.csv')).fillna('')
+            
+            beer_dirty.columns = beer_clean.columns
+            dirty_table = beer_dirty
+            clean_table = beer_clean
         
         elif dataset_name.lower() == 'rayyan':
-            # === 'Beers' 数据集的特定代码块开始 ===
-                # 确保路径正确，这里假定 GEIL_Data 在项目的根目录
             rayyan_clean = pd.read_csv('GEIL_Data/rayyan/original/clean.csv').fillna('')
             rayyan_dirty = pd.read_csv('GEIL_Data/rayyan/original/dirty.csv').fillna('')
             def Str2Int(row):
@@ -100,66 +75,58 @@ class DatasetLoader:
             clean_table = rayyan_clean
             
         elif dataset_name.lower() == 'inpatient':
-            # === 'Beers' 数据集的特定代码块开始 ===
-                # 确保路径正确，这里假定 GEIL_Data 在项目的根目录
-                inpatient_clean = pd.read_csv('BClean-main/dataset/Inpatient/Inpatient_clean.csv')
-                inpatient_dirty = pd.read_csv('BClean-main/dataset/Inpatient/Inpatient_dirty_10.csv',index_col=0).fillna('')
-                def Str2Int(row):
-                    for index in range(11):
-                        temp = row[index]
-                        try:
-                            row[index] = str(int(temp))
-                        except:
-                            continue
-                    return row
-                inpatient_clean = inpatient_clean.apply(Str2Int,axis=1)
-                inpatient_dirty = inpatient_dirty.apply(Str2Int,axis=1)
-                dirty_table = inpatient_dirty
-                clean_table = inpatient_clean
-        
+            inpatient_clean = pd.read_csv('BClean-main/dataset/Inpatient/Inpatient_clean.csv')
+            inpatient_dirty = pd.read_csv('BClean-main/dataset/Inpatient/Inpatient_dirty_10.csv',index_col=0).fillna('')
+            def Str2Int(row):
+                for index in range(11):
+                    temp = row[index]
+                    try:
+                        row[index] = str(int(temp))
+                    except:
+                        continue
+                return row
+            inpatient_clean = inpatient_clean.apply(Str2Int,axis=1)
+            inpatient_dirty = inpatient_dirty.apply(Str2Int,axis=1)
+            dirty_table = inpatient_dirty
+            clean_table = inpatient_clean
+            
         elif dataset_name.lower() == 'facilities':
-            # === 'Beers' 数据集的特定代码块开始 ===
-                # 确保路径正确，这里假定 GEIL_Data 在项目的根目录
-                inpatient_clean = pd.read_csv('BClean-main/dataset/facilities/facilities_clean.csv')
-                inpatient_dirty = pd.read_csv('BClean-main/dataset/facilities/facilities_dirty10.csv',index_col=0).fillna('')
-                def Str2Int(row):
-                    for index in range(10):
-                        temp = row[index]
-                        try:
-                            row[index] = str(int(temp))
-                        except:
-                            continue
-                    return row
-                inpatient_clean = inpatient_clean.apply(Str2Int,axis=1)
-                inpatient_dirty = inpatient_dirty.apply(Str2Int,axis=1)
-                dirty_table = inpatient_dirty
-                clean_table = inpatient_clean
+            inpatient_clean = pd.read_csv('BClean-main/dataset/facilities/facilities_clean.csv')
+            inpatient_dirty = pd.read_csv('BClean-main/dataset/facilities/facilities_dirty10.csv',index_col=0).fillna('')
+            def Str2Int(row):
+                for index in range(10):
+                    temp = row[index]
+                    try:
+                        row[index] = str(int(temp))
+                    except:
+                        continue
+                return row
+            inpatient_clean = inpatient_clean.apply(Str2Int,axis=1)
+            inpatient_dirty = inpatient_dirty.apply(Str2Int,axis=1)
+            dirty_table = inpatient_dirty
+            clean_table = inpatient_clean
             
         if dataset_name.lower() == 'tax':
-            # === 'Beers' 数据集的特定代码块开始 ===
-                # 确保路径正确，这里假定 GEIL_Data 在项目的根目录
-                tax_clean = pd.read_csv('GEIL_Data/tax/original/clean.csv').fillna('').astype(str)
-                tax_dirty = pd.read_csv('GEIL_Data/tax/original/dirty.csv').fillna('').astype(str)
-                dirty_table = tax_dirty
-                clean_table = tax_clean
+            tax_clean = pd.read_csv('GEIL_Data/tax/original/clean.csv').fillna('').astype(str)
+            tax_dirty = pd.read_csv('GEIL_Data/tax/original/dirty.csv').fillna('').astype(str)
+            dirty_table = tax_dirty
+            clean_table = tax_clean
     
         elif dataset_name.lower() == 'imdb':
-            # === 'Beers' 数据集的特定代码块开始 ===
-                # 确保路径正确，这里假定 GEIL_Data 在项目的根目录
-                imdb_clean = pd.read_csv('GEIL_Data/imdb/original/clean.csv').fillna('')
-                imdb_dirty = pd.read_csv('GEIL_Data/imdb/original/dirty.csv').fillna('')
-                def Str2Int(row):
-                    for index in range(6):
-                        temp = row[index]
-                        try:
-                            row[index] = str(int(temp))
-                        except:
-                            continue
-                    return row
-                imdb_clean = imdb_clean.apply(Str2Int,axis=1)
-                imdb_dirty = imdb_dirty.apply(Str2Int,axis=1)
-                dirty_table = imdb_dirty
-                clean_table = imdb_clean
+            imdb_clean = pd.read_csv('GEIL_Data/imdb/original/clean.csv').fillna('')
+            imdb_dirty = pd.read_csv('GEIL_Data/imdb/original/dirty.csv').fillna('')
+            def Str2Int(row):
+                for index in range(6):
+                    temp = row[index]
+                    try:
+                        row[index] = str(int(temp))
+                    except:
+                        continue
+                return row
+            imdb_clean = imdb_clean.apply(Str2Int,axis=1)
+            imdb_dirty = imdb_dirty.apply(Str2Int,axis=1)
+            dirty_table = imdb_dirty
+            clean_table = imdb_clean
         
         return dirty_table, clean_table
 
@@ -193,21 +160,13 @@ class GSLDataset(InMemoryDataset):
 
     def process(self) -> None:
         import pandas as pd
-        # from sentence_transformers import SentenceTransformer
 
         data = HeteroData()
 
         df = pd.read_csv(self.raw_paths[0], index_col='movieId')
         movie_mapping = {idx: i for i, idx in enumerate(df.index)}
 
-        # genres = df['genres'].str.get_dummies('|').values
-        # genres = torch.from_numpy(genres).to(torch.float)
-
-        # model = SentenceTransformer(self.model_name)
-        # with torch.no_grad():
-        #     emb = model.encode(df['title'].values, show_progress_bar=True,
-        #                        convert_to_tensor=True).cpu()
-        model  = FlagModel(self.model_name,use_fp16=False,devices='cuda:0')
+        model = FlagModel(self.model_name,use_fp16=False,devices='cuda:0')
         emb = model.encode(list(df['title'].astype(str).values),convert_to_numpy=False)
         data['movie'].x = torch.cat([emb], dim=-1)
 
@@ -221,11 +180,9 @@ class GSLDataset(InMemoryDataset):
         edge_index = torch.tensor([src, dst])
 
         rating = torch.from_numpy(df['rating'].values).to(torch.long)
-        # time = torch.from_numpy(df['timestamp'].values).to(torch.long)
 
         data['user', 'rates', 'movie'].edge_index = edge_index
         data['user', 'rates', 'movie'].edge_label = rating
-        # data['user', 'rates', 'movie'].time = time
 
         if self.pre_transform is not None:
             data = self.pre_transform(data)
