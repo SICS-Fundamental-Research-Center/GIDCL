@@ -1,0 +1,52 @@
+{
+
+    "ounces": {
+        "type": "Numerical",
+        "min_length": 0,
+        "max_length": 500,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": "\\d+\\.\\d+|(\\d+)"
+    },
+    "abv": {
+        "type": "Numerical",
+        "min_length": 0,
+        "max_length": 300,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": "\\d+\\.\\d+|(\\d+)"
+    },
+
+    "brewery_id": {
+        "type": "Categorical",
+        "min_length": 0,
+        "max_length": 300,
+        "AllowNull": "N",
+        "repairable": "N",
+        "pattern": null
+    },
+    "brewery_name": {
+        "type": "Categorical",
+        "min_length": 0,
+        "max_length": 300,
+        "AllowNull": "N",
+        "repairable": "N",
+        "pattern": null
+    },
+    "city": {
+        "type": "Categorical",
+        "min_length": 0,
+        "max_length": 300,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "state": {
+        "type": "Categorical",
+        "min_length": 0,
+        "max_length": 200,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    }
+}

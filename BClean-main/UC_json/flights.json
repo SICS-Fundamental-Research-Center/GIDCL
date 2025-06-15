@@ -1,0 +1,50 @@
+{
+    "src": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "N",
+        "pattern": null
+    },
+    "flight": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "N",
+        "pattern": null
+    },
+    "sched_dep_time": {
+        "type": "Categorical",
+        "min_length": 8,
+        "max_length": 8,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": "([1-9]:[0-5][0-9][\\s][ap].[m].|1[0-2]:[0-5][0-9][\\s][ap].[m].|0[1-9]:[0-5][0-9][\\s][ap].[m].)"
+    },
+    "act_dep_time": {
+        "type": "Categorical",
+        "min_length": 8,
+        "max_length": 8,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": "([1-9]:[0-5][0-9][\\s][ap].[m].|1[0-2]:[0-5][0-9][\\s][ap].[m].|0[1-9]:[0-5][0-9][\\s][ap].[m].)"
+    },
+    "sched_arr_time": {
+        "type": "Categorical",
+        "min_length": 8,
+        "max_length": 8,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": "([1-9]:[0-5][0-9][\\s][ap].[m].|1[0-2]:[0-5][0-9][\\s][ap].[m].|0[1-9]:[0-5][0-9][\\s][ap].[m].)"
+    },
+    "act_arr_time": {
+        "type": "Categorical",
+        "min_length": 8,
+        "max_length": 8,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": "([1-9]:[0-5][0-9][\\s][ap].[m].|1[0-2]:[0-5][0-9][\\s][ap].[m].|0[1-9]:[0-5][0-9][\\s][ap].[m].)"
+    }
+}

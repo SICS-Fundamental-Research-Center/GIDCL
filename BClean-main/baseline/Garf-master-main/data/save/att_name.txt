@@ -1,0 +1,1 @@
+{0: 'name', 1: 'surname', 2: 'birthyear', 3: 'birthplace', 4: 'position', 5: 'team', 6: 'city', 7: 'stadium', 8: 'season', 9: 'manager'}

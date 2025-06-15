@@ -1,0 +1,82 @@
+{
+    "CCN": {
+        "type": "Categorical",
+        "min_length": 0,
+        "max_length": 300,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "Facility": {
+        "type": "Categorical",
+        "min_length": 0,
+        "max_length": 300,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "Address1": {
+        "type": "Categorical",
+        "min_length": 0,
+        "max_length": 300,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "City": {
+        "type": "Categorical",
+        "min_length": 0,
+        "max_length": 300,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "State": {
+        "type": "Categorical",
+        "min_length": 0,
+        "max_length": 500,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "ZipCode": {
+        "type": "Categorical",
+        "min_length": 0,
+        "max_length": 300,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "County": {
+        "type": "Categorical",
+        "min_length": 0,
+        "max_length": 300,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "PhoneNumber": {
+        "type": "Categorical",
+        "min_length": 0,
+        "max_length": 300,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "CMSRegion": {
+        "type": "Categorical",
+        "min_length": 0,
+        "max_length": 300,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "Condition": {
+        "type": "Categorical",
+        "min_length": 0,
+        "max_length": 300,
+        "AllowNull": "N",
+        "repairable": "N",
+        "pattern": null
+    }
+}

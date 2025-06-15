@@ -1,0 +1,122 @@
+{
+    "ProviderNumber": {
+        "type": "Categorical",
+        "min_length": 5,
+        "max_length": 5,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": "^([1-9][0-9]{4,4})$"
+    },
+    "HospitalName": {
+        "type": "Categorical",
+        "min_length": 5,
+        "max_length": 50,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "Address1": {
+        "type": "Categorical",
+        "min_length": 5,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "City": {
+        "type": "Categorical",
+        "min_length": 3,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "State": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "ZipCode": {
+        "type": "Categorical",
+        "min_length": 5,
+        "max_length": 5,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": "^([1-9][0-9]{4,4})$"
+    },
+    "CountyName": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "PhoneNumber": {
+        "type": "Categorical",
+        "min_length": 10,
+        "max_length": 10,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": "^([1-9][0-9]{9,9})$"
+    },
+    "HospitalType": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "HospitalOwner": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 50,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "EmergencyService": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": "^(yes|no)$"
+    },
+    "Condition": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "MeasureCode": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "MeasureName": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 300,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "Stateavg": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    }
+}

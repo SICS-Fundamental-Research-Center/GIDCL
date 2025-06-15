@@ -1,0 +1,93 @@
+{
+    "prvdr_id": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+
+    },
+    "frst_nm": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "lst_nm": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "adrs_id": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "adr_ln_1": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 50,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+
+    "cty": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+
+    "st": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "zip": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "org_pac_id": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "phn_numbr": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "N",
+        "pattern": null
+    },
+    "NPI": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    }
+}

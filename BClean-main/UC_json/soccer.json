@@ -1,0 +1,82 @@
+{
+    "name": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "surname": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "AllowNull": "N",
+        "repairable": "Y",
+        "pattern": null
+    },
+    "birthyear": {
+        "type": "Categorical",
+        "min_length": 4,
+        "max_length": 4,
+        "pattern": "^([1][9][6-9][0-9])$",
+        "AllowNull": "N",
+        "repairable": "Y"
+    },
+    "birthplace": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "pattern": null,
+        "AllowNull": "N",
+        "repairable": "Y"
+    },
+    "position": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "pattern": null,
+        "AllowNull": "N",
+        "repairable": "Y"
+    },
+    "team": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "pattern": null,
+        "AllowNull": "N",
+        "repairable": "Y"
+    },
+    "city": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "pattern": null,
+        "AllowNull": "N",
+        "repairable": "Y"
+    },
+    "stadium": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "pattern": null,
+        "AllowNull": "N",
+        "repairable": "Y"
+    },
+    "season": {
+        "type": "Categorical",
+        "min_length": 4,
+        "max_length": 4,
+        "pattern": "^([2][0][0-9][0-9])$",
+        "AllowNull": "N",
+        "repairable": "Y"
+    },
+    "manager": {
+        "type": "Categorical",
+        "min_length": 2,
+        "max_length": 30,
+        "pattern": null,
+        "AllowNull": "N",
+        "repairable": "Y"
+    }
+}

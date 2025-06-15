@@ -1,0 +1,1001 @@
+,Unnamed: 0,City,State,ZipCode,CountyName,ProviderNumber,HospitalName,HospitalOwner,Address1,PhoneNumber,HospitalType,EmergencyService
+0,0,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+1,1,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+2,2,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+3,3,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+4,4,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+5,5,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+6,6,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+7,7,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+8,8,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+9,9,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+10,10,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+11,11,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+12,12,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+13,13,sheffield,al,35660,jefferson,1xx19,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+14,14,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+15,15,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+16,16,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acuxe care hospixals,yes
+17,17,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+18,18,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+19,19,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+20,20,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+21,21,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+22,22,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+23,23,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+24,24,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,334793870x,acute care hospitals,yes
+25,25,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+26,26,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+27,27,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+28,28,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+29,29,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+30,30,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+31,31,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+32,32,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+33,33,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+34,34,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+35,35,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+36,36,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,xx479x8701,acute care hospitals,yes
+37,37,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+38,38,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+39,39,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acxte care hospitals,yes
+40,40,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+41,41,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+42,42,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+43,43,dothan,al,36302,houston,10001,callahan eye foundation hospital,voluntary non-profit - private,1108 ross clark circle,3347938701,acute care hospitals,yes
+44,44,boaz,al,x5957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+45,45,boaz,al,35957,marshall,x0005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+46,46,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+47,47,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+48,48,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+49,49,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+50,50,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+51,51,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+52,52,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+53,53,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+54,54,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+55,55,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+56,56,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+57,57,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505xuxsxhighwayx431xnorth,2x6x938310,acute care hospitals,yes
+58,58,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+59,59,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+60,60,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2x6x938310,acute care hospitals,yes
+61,61,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+62,62,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+63,63,boaz,al,3595x,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+64,64,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+65,65,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565x38310,acute care hospitals,yes
+66,66,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+67,67,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+68,68,boaz,al,35957,marshall,10005,callahan eye foundation hospital,voluntary non-profit - private,2505 u s highway 431 north,2565938310,acute care hospitals,yes
+69,69,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+70,70,florence,al,3563x,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+71,71,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+72,72,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+73,73,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+74,74,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+75,75,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+76,76,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+77,77,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+78,78,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+79,79,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+80,80,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+81,81,florence,al,35631,lauderdale,1000x,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+82,82,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+83,83,birmingham,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+84,84,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+85,85,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+86,86,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+87,87,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+88,88,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+89,89,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+90,90,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+91,91,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+92,92,florence,al,35631,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+93,93,florence,al,3563x,lauderdale,10006,callahan eye foundation hospital,voluntary non-profit - other,205 marengo street,2567688400,acute care hospitals,yes
+94,94,birmingham,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702xnxmainxst,3344933541,acute care hospitals,yes
+95,95,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+96,96,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+97,97,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+98,98,birmingham,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hosxitals,yes
+99,99,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+100,100,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+101,101,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344x33541,acute care hospitals,yes
+102,102,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+103,103,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+104,104,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+105,105,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+106,106,birmingham,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 x maix st,3344933541,acute care hospitals,yes
+107,107,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+108,108,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+109,109,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+110,110,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+111,111,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+112,112,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+113,113,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+114,114,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+115,115,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+116,116,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+117,117,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+118,118,opp,al,36467,covington,10007,callahan eye foundation hospital,voluntary non-profit - private,702 n main st,3344933541,acute care hospitals,yes
+119,119,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+120,120,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+121,121,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+122,122,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+123,123,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+124,124,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+125,125,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+126,126,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+127,127,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+128,128,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+129,129,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+130,130,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+131,131,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+132,132,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+133,133,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+134,134,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+135,135,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+136,136,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+137,137,luverne,al,36x49,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+138,138,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+139,139,luverne,al,360x9,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+140,140,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+141,141,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+142,142,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+143,143,luverne,al,36049,crenshaw,10008,callahan eye foundation hospital,voluntary non-profit - private,101 hospital circle,3343353374,acute care hospitals,yes
+144,144,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+145,145,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+146,146,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+147,147,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+148,148,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+149,149,hartselle,al,3x640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+150,150,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+151,151,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+152,152,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+153,153,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+154,154,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+155,155,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+156,156,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+157,157,hartselle,al,3x640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+158,158,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+159,159,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+160,160,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+161,161,birmingham,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine sxreex norxhwesx,2567736511,acute care hospitals,yes
+162,162,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+163,163,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+164,164,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+165,165,birmingham,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+166,166,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+167,167,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+168,168,hartselle,al,35640,morgan,10009,callahan eye foundation hospital,voluntary non-profit - private,201 pine street northwest,2567736511,acute care hospitals,yes
+169,169,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+170,170,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+171,171,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+172,172,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+173,173,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+174,174,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+175,175,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama xigxway 69,2565718000,acute care hospitals,yes
+176,176,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+177,177,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+178,178,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+179,179,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+180,180,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+181,181,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+182,182,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+183,183,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+184,184,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+185,185,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+186,186,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+187,187,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+188,188,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+189,189,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+190,190,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+191,191,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+192,192,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+193,193,birmingham,al,35976,marshall,10010,callahan eye foundation hospital,voluntary non-profit - private,8000 alabama highway 69,2565718000,acute care hospitals,yes
+194,194,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+195,195,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+196,196,birmingham,al,3x23x,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+197,197,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+198,198,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+199,199,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hosxitals,yes
+200,200,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+201,201,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+202,202,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+203,203,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+204,204,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+205,205,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+206,206,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+207,207,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+208,208,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+209,209,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+210,210,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+211,211,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+212,212,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+213,213,birmingham,al,35235,jefferson,x00xx,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acutx carx hospitals,yes
+214,214,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+215,215,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+216,216,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+217,217,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058x8x122,acute care hospitals,yes
+218,218,birmingham,al,35235,jefferson,10011,callahan eye foundation hospital,voluntary non-profit - private,50 medical park east drive,2058383122,acute care hospitals,yes
+219,219,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+220,220,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+221,221,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+222,222,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+223,223,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+224,224,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+225,225,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+226,226,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+227,227,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+228,228,birmingham,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453x50,acute care hospitals,yes
+229,229,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+230,230,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+231,231,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+232,232,fort payne,al,359x8,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+233,233,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+234,234,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+235,235,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+236,236,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+237,237,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+238,238,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+239,239,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+240,240,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+241,241,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+242,242,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+243,243,fort payne,al,35968,de kalb,10012,callahan eye foundation hospital,voluntary non-profit - church,200 med center drive,2568453150,acute care hospitals,yes
+244,244,thomasville,al,36784,clarke,x00x5,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+245,245,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+246,246,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+247,247,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,xx46x66221,acute care hospitals,yes
+248,248,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+249,249,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+250,250,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+251,251,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+252,252,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+253,253,thomasville,al,36784,clarke,1xx15,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+254,254,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+255,255,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+256,256,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+257,257,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+258,258,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+259,259,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+260,260,birmingham,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 hxghway 43,3346366221,acute care hospitals,yes
+261,261,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,334x3xx221,acute care hospitals,yes
+262,262,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+263,263,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+264,264,birmingham,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway x3,3346366221,acute care hospitals,yes
+265,265,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+266,266,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acuxe care hospixals,yes
+267,267,thomasville,al,x6784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+268,268,thomasville,al,36784,clarke,10015,callahan eye foundation hospital,voluntary non-profit - private,33700 highway 43,3346366221,acute care hospitals,yes
+269,269,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+270,270,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+271,271,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+272,272,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+273,273,alabaster,al,35007,shelby,1xx16,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+274,274,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+275,275,birmingham,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 fixst stxeet noxth,2056208100,acute care hospitals,yes
+276,276,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+277,277,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+278,278,birmingham,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+279,279,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+280,280,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acutexcarexhospitals,yes
+281,281,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+282,282,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+283,283,alabaster,al,3x007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+284,284,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+285,285,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+286,286,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+287,287,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+288,288,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+289,289,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+290,290,alabaster,al,x5007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+291,291,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+292,292,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acute care hospitals,yes
+293,293,alabaster,al,35007,shelby,10016,callahan eye foundation hospital,voluntary non-profit - church,1000 first street north,2056208100,acuxe care hospixals,yes
+294,294,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+295,295,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 univxrsity blvd,2053258100,acute care hospitals,yes
+296,296,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+297,297,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+298,298,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+299,299,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+300,300,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+301,301,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+302,302,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+303,303,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+304,304,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+305,305,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+306,306,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+307,307,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+308,308,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+309,309,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+310,310,birmingham,al,35233,jefferson,10018,callahan eye foundation hospital,voluntary non-profit - private,1720 university blvd,2053258100,acute care hospitals,yes
+311,311,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+312,312,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+313,313,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+314,314,anniston,al,36201,calhoun,100x8,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+315,315,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+316,316,birmingham,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301xeastx18thxst,2562358900,acute care hospitals,yes
+317,317,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+318,318,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+319,319,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+320,320,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+321,321,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,256235x900,acute care hospitals,yes
+322,322,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+323,323,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+324,324,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+325,325,anniston,al,36x01,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+326,326,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+327,327,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+328,328,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+329,329,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+330,330,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+331,331,dothan,al,36305,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370 west main street,3347935000,acute care hospitals,yes
+332,332,dothan,al,3x305,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370 west main street,3347935000,acute care hospitals,yes
+333,333,dothan,al,36305,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370 west main street,3347935000,acute care hospitals,yes
+334,334,dothan,al,36305,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370xwestxmainxstreet,3347935000,acute care hospitals,yes
+335,335,dothan,al,36305,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370 west main street,3347935000,acute care hospitals,yes
+336,336,dothan,al,36305,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370 west main street,3347935000,acute care hospitals,yes
+337,337,dothan,al,36305,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370 west main street,3347935000,acute care hospitals,yes
+338,338,dothan,al,36305,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370 west main street,3347935000,acute care hospitals,yes
+339,339,dothan,al,36305,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370 west main street,3347935000,acute care hospitals,yes
+340,340,dothan,al,x6x05,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370 west main street,3347935000,acute care hospitals,yes
+341,341,dothan,al,36305,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370 west main street,3347935000,acute care hospitals,yes
+342,342,dothan,al,36305,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370 west main street,xx479x5000,acute care hospitals,yes
+343,343,dothan,al,36305,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370 west main street,3347935000,acute care hospitals,yes
+344,344,dothan,al,36305,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370 west main street,3347935000,acute care hospitals,yes
+345,345,dothan,al,36305,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370 west main street,3347935000,acute care hospitals,yes
+346,346,dothan,al,36305,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370 west main street,3347935000,acute care hospitals,yes
+347,347,dothan,al,36305,houston,10055,callahan eye foundation hospital,voluntary non-profit - private,4370 west main street,3347935000,acute care hospitals,yes
+348,348,birmingham,al,35205,jefferson,10056,callahan eye foundation hospital,voluntary non-profit - other,810 st vincents drive,2059397000,acute care hospitals,yes
+349,349,birmingham,al,35205,jefferson,10056,callahan eye foundation hospital,voluntary non-profit - other,810 st vincents drive,2059397000,acute care hospitals,yes
+350,350,birmingham,al,35205,jefferson,10056,callahan eye foundation hospital,voluntary non-profit - other,810 st vxncents drxve,2059397000,acute care hospitals,yes
+351,351,birmingham,al,35205,jefferson,10056,callahan eye foundation hospital,voluntary non-profit - other,810 st vincents drive,2059397000,acute care hospitals,yes
+352,352,birmingham,al,35205,jefferson,10056,callahan eye foundation hospital,voluntary non-profit - other,810 st vincents drive,2059397000,acute care hospitals,yes
+353,353,birmingham,al,35609,morgan,10085,callahan eye foundation hospital,voluntary non-profit - private,1201 7th street se,2563412000,acute care hospitals,yes
+354,354,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+355,355,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+356,356,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+357,357,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+358,358,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+359,359,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+360,360,winfield,al,35594,marion,100x6,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+361,361,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+362,362,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+363,363,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530xuxsxhighwayx43,2054877736,acute care hospitals,yes
+364,364,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+365,365,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+366,366,winfield,al,3xx94,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+367,367,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+368,368,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+369,369,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+370,370,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+371,371,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+372,372,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+373,373,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+374,374,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+375,375,winfield,al,3xx94,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+376,376,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+377,377,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+378,378,winfield,al,35594,marion,10086,callahan eye foundation hospital,voluntary non-profit - private,1530 u s highway 43,2054877736,acute care hospitals,yes
+379,379,mobile,al,36617,mobile,10087,callahan eye foundation hospital,voluntary non-profit - private,2451 fillingim street,2514717110,acute care hospitals,yes
+380,380,mobile,al,36617,mobile,10087,callahan eye foundation hospital,voluntary non-profit - private,2451 fillingim street,2514717110,acute care hospitals,yes
+381,381,mobile,al,36617,mobile,10087,callahan eye foundation hospital,voluntary non-profit - private,2451 fillingim street,25x47x7xx0,acute care hospitals,yes
+382,382,mobile,al,36617,mobile,10087,callahan eye foundation hospital,voluntary non-profit - private,2451 fillingim street,2514717110,acute care hospitals,yes
+383,383,mobile,al,36617,mobile,10087,callahan eye foundation hospital,voluntary non-profit - private,2451 fillingim street,2514717110,acute care hospitals,yes
+384,384,mobile,al,36617,mobile,10087,callahan eye foundation hospital,voluntary non-profit - private,2451 fillingim street,25x47x7xx0,acute care hospitals,yes
+385,385,mobile,al,36617,mobile,10087,callahan eye foundation hospital,voluntary non-profit - private,2451 fillingim street,2514717110,acute care hospitals,yes
+386,386,birmingham,al,36617,mobile,10087,callahan eye foundation hospital,voluntary non-profit - private,2451 fillingim street,25x47x7xx0,acute care hospitals,yes
+387,387,mobile,al,36617,mobile,10087,callahan eye foundation hospital,voluntary non-profit - private,2451 fillingim street,2514717110,acute care hospitals,yes
+388,388,mobile,al,36617,mobile,10087,callahan eye foundation hospital,voluntary non-profit - private,2451 fillingim street,2514717110,acute care hospitals,yes
+389,389,mobile,al,36617,mobile,10087,callahan eye foundation hospital,voluntary non-profit - private,2451 fillingim street,2514717110,acute care hospitals,yes
+390,390,mobile,al,36617,mobile,10087,callahan eye foundation hospital,voluntary non-profit - private,2451 fillingim street,2514717110,acute care hospitals,yes
+391,391,mobile,al,36617,mobile,10087,callahan eye foundation hospital,voluntary non-profit - private,2451 fillingim street,2514717110,acute care hospitals,yes
+392,392,prattville,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+393,393,birmingham,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124xsxmemorialxdr,33x361x267,acute care hospitals,yes
+394,394,prattville,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+395,395,prattville,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+396,396,prattville,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+397,397,prattville,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+398,398,prattville,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+399,399,prattville,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+400,400,prattville,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+401,401,prattville,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+402,402,birmingham,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+403,403,prattville,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+404,404,prattville,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+405,405,prattville,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+406,406,prattville,al,3x0x7,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+407,407,prattville,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+408,408,prattville,al,36067,autauga,x0x08,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+409,409,prattville,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+410,410,prattville,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s memorial dr,3343614267,acute care hospitals,yes
+411,411,birmingham,al,36067,autauga,10108,callahan eye foundation hospital,voluntary non-profit - private,124 s mxmorial dr,3343614267,acute care hosxitals,yes
+412,412,birmingham,al,35653,franklin,10158,callahan eye foundation hospital,voluntary non-profit - private,15155 highway 43,2563321611,acute care hospitals,yes
+413,413,birmingham,al,35653,franklin,10158,callahan eye foundation hospital,voluntary non-profit - private,15155 highway 43,2563321611,acuxe care hospixals,yes
+414,414,sylacauga,al,35150,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickory st,2562495000,acute care hospitals,yes
+415,415,birmingham,al,35150,tallaxega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickxry st,2562495000,acute care hospitals,yes
+416,416,sylacauga,al,35150,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickory st,2562495000,acute care hospitals,yes
+417,417,sylacauga,al,35150,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickory st,2562495000,acute care hospitals,yes
+418,418,sylacauga,al,35150,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickory st,2562495000,acute care hospitals,yes
+419,419,sylacauga,al,35150,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickory st,2562495000,acute care hospitals,yes
+420,420,sylacauga,al,x5150,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickory st,2562495000,acute care hospitals,yes
+421,421,sylacauga,al,35150,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickory st,2562495000,acute care hospitals,yes
+422,422,sylacauga,al,35150,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickory st,2562495000,acute care hospitals,yes
+423,423,sylacauga,al,35150,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickory st,2562495000,acute care hospitals,yes
+424,424,sylacauga,al,35150,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickory st,2562495000,acute care hospitals,yes
+425,425,sylacauga,al,35150,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickory st,2562495000,acute care hospitals,yes
+426,426,sylacauga,al,35150,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickory st,2562495000,acute care hospitals,yes
+427,427,sylacauga,al,35150,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickory st,2562495000,acute care hospitals,yes
+428,428,sylacauga,al,3x1x0,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickory st,2562495000,acute care hospitals,yes
+429,429,sylacauga,al,35150,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickory st,2562495000,acute care hospitals,yes
+430,430,sylacauga,al,35150,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315 w hickory st,2562495000,acute care hospitals,yes
+431,431,birmingham,al,35150,talladega,10164,callahan eye foundation hospital,voluntary non-profit - other,315xwxhickoryxst,2562495000,acute care hospitals,yes
+432,432,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+433,433,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+434,434,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+435,435,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+436,436,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+437,437,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+438,438,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+439,439,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+440,440,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+441,441,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+442,442,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+443,443,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+444,444,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+445,445,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+446,446,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+447,447,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+448,448,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+449,449,anchorage,ak,99508,anchorage,20017,callahan eye foundation hospital,voluntary non-profit - private,2801 debarr road,9072761131,acute care hospitals,yes
+450,450,bethel,ak,99559,bethel,20018,callahan eye foundation hospital,voluntary non-profit - private,po box 287,9075436300,acute care hospitals,yes
+451,451,bethel,ak,99559,bethel,20018,callahan eye foundation hospital,voluntary non-profit - private,poxboxx287,9075436300,acute care hospitals,yes
+452,452,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+453,453,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitaxs,yes
+454,454,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+455,455,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+456,456,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+457,457,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+458,458,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+459,459,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+460,460,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+461,461,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+462,462,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+463,463,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+464,464,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+465,465,sheffield,al,35660,jefferson,10019,callahan eye foundation hospital,voluntary non-profit - private,1300 south montgomery avenue,2563864556,acute care hospitals,yes
+466,466,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+467,467,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+468,468,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+469,469,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+470,470,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+471,471,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,334774x601,acute care hospitals,yes
+472,472,birmingham,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126xhospitalxave,3347742601,acute care hospitals,yes
+473,473,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+474,474,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+475,475,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+476,476,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+477,477,birmingham,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+478,478,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+479,479,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+480,480,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+481,481,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+482,482,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+483,483,birmingham,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+484,484,birmingham,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,1x6 hospital ave,3347742601,acute care hospitals,yes
+485,485,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+486,486,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+487,487,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+488,488,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+489,489,ozark,al,36360,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute care hospitals,yes
+490,490,ozark,al,x6x60,dale,10021,callahan eye foundation hospital,voluntary non-profit - private,126 hospital ave,3347742601,acute caxe hospitals,yes
+491,491,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+492,492,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+493,493,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hxspitals,yes
+494,494,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+495,495,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+496,496,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+497,497,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acutx carx hospitals,yes
+498,498,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+499,499,centre,al,x5960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+500,500,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+501,501,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+502,502,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+503,503,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+504,504,birmingham,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+505,505,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+506,506,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+507,507,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+508,508,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+509,509,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+510,510,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+511,511,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acuxe care hospixals,yes
+512,512,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+513,513,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+514,514,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+515,515,centre,al,35960,cherokee,10022,callahan eye foundation hospital,voluntary non-profit - private,400 northwood dr,2569275531,acute care hospitals,yes
+516,516,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342xx2100,acute care hospitals,yes
+517,517,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+518,518,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+519,519,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+520,520,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+521,521,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+522,522,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+523,523,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+524,524,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+525,525,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+526,526,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+527,527,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+528,528,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+529,529,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+530,530,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+531,531,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+532,532,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hosxitals,yes
+533,533,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+534,534,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+535,535,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+536,536,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+537,537,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+538,538,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+539,539,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+540,540,montgomery,al,36116,montgomery,10023,callahan eye foundation hospital,voluntary non-profit - church,2105 east south boulevard,3342882100,acute care hospitals,yes
+541,541,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+542,542,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+543,543,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+544,544,montgomery,al,3x10x,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+545,545,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+546,546,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+547,547,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+548,548,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938xxx,acute care hospitals,yes
+549,549,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+550,550,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+551,551,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+552,552,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+553,553,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+554,554,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+555,555,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+556,556,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+557,557,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+558,558,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+559,559,birmingham,al,36106,montgomery,1xx24,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+560,560,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+561,561,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,33x2938000,acute care hospitals,yes
+562,562,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938xxx,acute care hospitals,yes
+563,563,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+564,564,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+565,565,montgomery,al,36106,montgomery,10024,callahan eye foundation hospital,voluntary non-profit - private,1725 pine street,3342938000,acute care hospitals,yes
+566,566,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+567,567,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+568,568,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+569,569,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+570,570,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+571,571,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+572,572,birmingham,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - otxer,4800 48th st,334x561400,acute care hospitals,yes
+573,573,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+574,574,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+575,575,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+576,576,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+577,577,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+578,578,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+579,579,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+580,580,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+581,581,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+582,582,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+583,583,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+584,584,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+585,585,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+586,586,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+587,587,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+588,588,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acuxe care hospixals,yes
+589,589,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+590,590,valley,al,36854,chambers,10025,callahan eye foundation hospital,voluntary non-profit - other,4800 48th st,3347561400,acute care hospitals,yes
+591,591,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+592,592,birmingham,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+593,593,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,33x8972257,acute care hospitals,yes
+594,594,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+595,595,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+596,596,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+597,597,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+598,598,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+599,599,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+600,600,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+601,601,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+602,602,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+603,603,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+604,604,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+605,605,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+606,606,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+607,607,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+608,608,elba,al,36323,coffee,x0027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+609,609,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+610,610,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+611,611,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+612,612,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+613,613,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+614,614,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+615,615,elba,al,36323,coffee,10027,callahan eye foundation hospital,voluntary non-profit - other,987 drayton street,3348972257,acute care hospitals,yes
+616,616,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+617,617,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+618,618,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+619,619,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+620,620,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+621,621,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+622,622,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+623,623,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+624,624,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+625,625,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+626,626,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+627,627,opelika,al,36801,lee,x0029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+628,628,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+629,629,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+630,630,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+631,631,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+632,632,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+633,633,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+634,634,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acuxe care hospixals,yes
+635,635,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+636,636,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+637,637,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+638,638,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+639,639,opelika,al,36801,lee,1xx29,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+640,640,opelika,al,36801,lee,10029,callahan eye foundation hospital,voluntary non-profit - private,2000 pepperell parkway,3347493411,acute care hospitals,yes
+641,641,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+642,642,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+643,643,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+644,644,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+645,645,wedowee,al,36278,randolph,1xx32,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+646,646,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+647,647,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+648,648,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+649,649,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+650,650,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+651,651,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+652,652,birmingham,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 xorth maix street,2563572111,acute care hospitals,yes
+653,653,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+654,654,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+655,655,wedowee,al,36278,randolph,1xx32,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+656,656,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+657,657,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+658,658,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+659,659,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+660,660,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+661,661,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+662,662,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+663,663,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+664,664,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+665,665,wedowee,al,36278,randolph,10032,callahan eye foundation hospital,voluntary non-profit - private,209 north main street,2563572111,acute care hospitals,yes
+666,666,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,20593xx011,acute care hospitals,yes
+667,667,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+668,668,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+669,669,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+670,670,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+671,671,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+672,672,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+673,673,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+674,674,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+675,675,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+676,676,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+677,677,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+678,678,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+679,679,birmingham,al,3x233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+680,680,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+681,681,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+682,682,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+683,683,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+684,684,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+685,685,birmingham,al,x52xx,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+686,686,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+687,687,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+688,688,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+689,689,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+690,690,birmingham,al,35233,jefferson,10033,callahan eye foundation hospital,voluntary non-profit - private,619 south 19th street,2059344011,acute care hospitals,yes
+691,691,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+692,692,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+693,693,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+694,694,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+695,695,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute cxre hospitxls,yes
+696,696,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+697,697,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+698,698,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+699,699,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,334x836541,acute care hospitals,yes
+700,700,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+701,701,birmingham,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+702,702,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+703,703,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+704,704,tallassee,al,36078,elmore,100x4,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+705,705,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acutexcarexhospitals,yes
+706,706,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+707,707,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+708,708,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+709,709,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+710,710,tallassee,al,36x78,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+711,711,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+712,712,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+713,713,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,33x28365x1,acute care hospitals,yes
+714,714,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+715,715,tallassee,al,36078,elmore,10034,callahan eye foundation hospital,voluntary non-profit - private,805 friendship road,3342836541,acute care hospitals,yes
+716,716,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+717,717,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+718,718,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+719,719,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+720,720,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+721,721,cullman,al,35058,cullman,100x5,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+722,722,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+723,723,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+724,724,cullman,al,35058,cullman,1xx35,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+725,725,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+726,726,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+727,727,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+728,728,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+729,729,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acutexcarexhospitals,yes
+730,730,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+731,731,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+732,732,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+733,733,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+734,734,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+735,735,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+736,736,birmingham,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912xalabamaxhighwayx157,2567372000,acute care hospitals,yes
+737,737,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+738,738,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+739,739,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+740,740,cullman,al,35058,cullman,10035,callahan eye foundation hospital,voluntary non-profit - private,1912 alabama highway 157,2567372000,acute care hospitals,yes
+741,741,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+742,742,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+743,743,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+744,744,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+745,745,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+746,746,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+747,747,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+748,748,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+749,749,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+750,750,andalusia,al,3642x,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+751,751,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,334xxx8466,acute care hospitals,yes
+752,752,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+753,753,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+754,754,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+755,755,andalusia,al,36420,covington,1xx36,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+756,756,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+757,757,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+758,758,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+759,759,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+760,760,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+761,761,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+762,762,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+763,763,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,33422284xx,acute care hospitals,yes
+764,764,birmingham,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+765,765,andalusia,al,36420,covington,10036,callahan eye foundation hospital,voluntary non-profit - private,849 south three notch street,3342228466,acute care hospitals,yes
+766,766,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+767,767,birmingham,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 1xth st,2562358900,acute care hospitals,yes
+768,768,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+769,769,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+770,770,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+771,771,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+772,772,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+773,773,anniston,al,36201,calhoun,10038,callahan eye foundation hospital,voluntary non-profit - private,301 east 18th st,2562358900,acute care hospitals,yes
+774,774,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+775,775,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+776,776,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+777,777,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+778,778,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+779,779,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acutexcarexhospitals,yes
+780,780,huntsville,al,35801,madison,1003x,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+781,781,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+782,782,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitaxs,yes
+783,783,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+784,784,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+785,785,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+786,786,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+787,787,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+788,788,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+789,789,huntsville,al,35801,madison,1xx39,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+790,790,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+791,791,birmingham,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+792,792,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+793,793,huntsville,al,35801,madison,100x9,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+794,794,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+795,795,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+796,796,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+797,797,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+798,798,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+799,799,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+800,800,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+801,801,huntsville,al,35801,madison,10039,callahan eye foundation hospital,voluntary non-profit - private,101 sivley rd,2562651000,acute care hospitals,yes
+802,802,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+803,803,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+804,804,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+805,805,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+806,806,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+807,807,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+808,808,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+809,809,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+810,810,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+811,811,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+812,812,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+813,813,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+814,814,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,axute care hospitals,yes
+815,815,gadsden,al,x590x,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+816,816,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+817,817,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+818,818,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+819,819,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+820,820,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+821,821,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+822,822,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+823,823,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+824,824,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944xxx,acute care hospitals,yes
+825,825,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+826,826,gadsden,al,35903,etowah,10040,callahan eye foundation hospital,voluntary non-profit - private,1007 goodyear avenue,2564944000,acute care hospitals,yes
+827,827,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+828,828,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+829,829,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+830,830,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+831,831,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+832,832,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+833,833,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+834,834,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+835,835,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+836,836,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+837,837,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+838,838,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+839,839,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+840,840,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+841,841,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+842,842,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+843,843,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+844,844,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+845,845,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+846,846,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+847,847,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+848,848,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute caxe hospitals,yes
+849,849,birmingham,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,x0x0 lay dam road,2057552500,acute care hospitals,yes
+850,850,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+851,851,clanton,al,35045,chilton,10043,callahan eye foundation hospital,voluntary non-profit - private,1010 lay dam road,2057552500,acute care hospitals,yes
+852,852,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+853,853,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+854,854,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+855,855,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,x059x16x00,acute care hospitals,yes
+856,856,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+857,857,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street sxuth,2059216200,acute care hospitals,yes
+858,858,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+859,859,hamilton,al,35570,marion,1xx44,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+860,860,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+861,861,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+862,862,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+863,863,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+864,864,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+865,865,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,20x9216200,acute care hospitals,yes
+866,866,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+867,867,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+868,868,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+869,869,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+870,870,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+871,871,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+872,872,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+873,873,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+874,874,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+875,875,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+876,876,hamilton,al,35570,marion,10044,callahan eye foundation hospital,voluntary non-profit - private,1256 military street south,2059216200,acute care hospitals,yes
+877,877,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hoxpitalx,yes
+878,878,fayette,al,35555,fayette,1xx45,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+879,879,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+880,880,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+881,881,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,x0593x5966,acute care hospitals,yes
+882,882,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+883,883,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,x0593x5966,acute care hospitals,yes
+884,884,birmingham,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+885,885,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+886,886,birmingham,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+887,887,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+888,888,fayette,al,35555,fayette,x0045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+889,889,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+890,890,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+891,891,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+892,892,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+893,893,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+894,894,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+895,895,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+896,896,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+897,897,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+898,898,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+899,899,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+900,900,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+901,901,fayette,al,35555,fayette,10045,callahan eye foundation hospital,voluntary non-profit - other,1653 temple avenue north,2059325966,acute care hospitals,yes
+902,902,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acutexcarexhospitals,yes
+903,903,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+904,904,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+905,905,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+906,906,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+907,907,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+908,908,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+909,909,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+910,910,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+911,911,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+912,912,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+913,913,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+914,914,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+915,915,birmingham,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 souxh xhird sxreex,2565435200,acute care hospitals,yes
+916,916,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,x565435x00,acute care hospitals,yes
+917,917,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+918,918,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+919,919,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+920,920,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+921,921,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+922,922,birmingham,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+923,923,gadsden,al,3590x,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+924,924,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+925,925,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+926,926,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acuxe care hospixals,yes
+927,927,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+928,928,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+929,929,gadsden,al,35901,etowah,10046,callahan eye foundation hospital,voluntary non-profit - private,600 south third street,2565435200,acute care hospitals,yes
+930,930,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+931,931,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+932,932,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+933,933,georgiana,al,36033,butler,1xx47,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+934,934,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda sx,3343762205,acute care hospitals,yes
+935,935,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranxa st,3343762205,acute care hospitals,yes
+936,936,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+937,937,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+938,938,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+939,939,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+940,940,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+941,941,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+942,942,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+943,943,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+944,944,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+945,945,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 mirxndx st,3343762205,acute care hospitals,yes
+946,946,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+947,947,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+948,948,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+949,949,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hosxitals,yes
+950,950,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+951,951,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+952,952,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+953,953,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+954,954,georgiana,al,36033,butler,10047,callahan eye foundation hospital,voluntary non-profit - private,515 miranda st,3343762205,acute care hospitals,yes
+955,955,enterprise,al,36330,coffee,1004x,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+956,956,birmingham,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400xnxedwardsxstreet,3343470584,acute xare hospitals,yes
+957,957,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+958,958,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+959,959,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+960,960,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+961,961,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+962,962,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+963,963,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+964,964,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acutexcarexhospitals,yes
+965,965,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+966,966,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+967,967,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+968,968,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+969,969,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+970,970,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+971,971,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+972,972,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+973,973,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+974,974,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+975,975,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+976,976,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acutexcarexhospitals,yes
+977,977,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+978,978,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+979,979,enterprise,al,36330,coffee,10049,callahan eye foundation hospital,voluntary non-profit - private,400 n edwards street,3343470584,acute care hospitals,yes
+980,980,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+981,981,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+982,982,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+983,983,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+984,984,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+985,985,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+986,986,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilxreath drive,2052743000,acute care hospitals,yes
+987,987,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+988,988,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+989,989,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+990,990,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+991,991,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+992,992,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+993,993,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+994,994,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+995,995,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+996,996,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+997,997,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+998,998,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes
+999,999,oneonta,al,35121,blount,10050,callahan eye foundation hospital,voluntary non-profit - private,150 gilbreath drive,2052743000,acute care hospitals,yes

@@ -1,0 +1,22 @@
+# 忽略 lora_weight 文件夹下的所有文件
+lora_weight/*
+lora/*
+bck/*
+func_gen/*
+GEIL_revision/*
+inference_GEIL/*
+PyG/*
+raha_result/*
+rotom_result/*
+notebook/*
+
+# 不忽略子文件夹的名称
+!lora_weight/*/
+
+# 忽略所有 .bin 文件和 .pt 文件
+*.bin
+*.pt
+*.npy
+*.safetensors
+*.zip
+

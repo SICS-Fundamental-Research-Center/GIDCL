@@ -1,0 +1,11 @@
+
+.DS_Store
+results
+runtimes
+*.png
+*.pyc
+experiments/*_data
+Manifest.toml
+scratch.jl
+models
+.vscode

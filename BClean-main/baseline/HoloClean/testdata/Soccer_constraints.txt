@@ -1,0 +1,4 @@
+t1&t2&EQ(t1.name,t2.name)&IQ(t1.birthyear,t2.birthyear)&IQ(t1.birthplace,t2.birthplace)&IQ(t1.surname,t2.surname)
+t1&t2&EQ(t1.name,t2.name)&EQ(t1.season,t2.season)&IQ(t1.team,t2.team)&IQ(t1.position,t2.position)
+t1&t2&EQ(t1.team,t2.team)&IQ(t1.city,t2.city)&IQ(t1.stadium,t2.stadium)
+t1&t2&EQ(t1.team,t2.team)&EQ(t1.season,t2.season)&IQ(t1.manager,t2.manager)
