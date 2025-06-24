@@ -14,18 +14,7 @@ import json
 import os.path as osp
 import numpy as np
 from sklearn.cluster import KMeans
-import torch
-import torch.nn.functional as F
-from torch.nn import Linear
-from typing import Callable, List, Optional
-import torch_geometric
-import torch_geometric.transforms as T
-from torch_geometric.datasets import MovieLens
-from torch_geometric.nn import SAGEConv, to_hetero
-from torch_geometric.data import (
-    HeteroData,
-    InMemoryDataset,
-)
+
 import json
 import time
 from FlagEmbedding import FlagModel
@@ -38,34 +27,46 @@ from utils.func import cluster_by_attribute,sort_clusters_by_members_length,spli
 from utils.clustering import ClusterAnalyzer,KMeansClusterer
 from utils.LLM_dialog import DetectorRule
 from utils.func import extract_first_function,execute_first_function,calculate_f1_with_smoothing,find_unique_false_rows,extract_and_make_callable
-from ditto.model import DittoModel,DittoDataset,load_model,to_str,classify,train,simple_train,simple_train_update
+
 from sklearn.metrics import precision_score,recall_score,f1_score
 from types import SimpleNamespace
 from openai import OpenAI
+import yaml
 parser = argparse.ArgumentParser()
 
 parser.add_argument('--dataset_name', type=str, default='Hospital', help='dataset name')
 parser.add_argument('--base_path', type=str, default='GEIL_Data',help='Dataset Base Path')
+parser.add_argument('--config_path', type=str, default='',help='config for online model')
 
 args = parser.parse_args()
 
 dataset_name = args.dataset_name
 base_path = args.base_path
+config_path = args.config_path
 output_directory = 'output/{}/detector'.format(dataset_name)
+
 ## define LLM model path and url
 
+if config_path!='':
+    with open(config_path, 'r', encoding='utf-8') as f:
+        config = yaml.safe_load(f)
+    func_model_path = config['func_model_path']
+    base_url = config['base_url']
+    api_key = config['api_key']
+else:
+    func_model_path = '/home/user/model/Qwen2.5-Coder-7B'
+    base_url = "http://192.168.12.43:8000/v1"
+    api_key = 'token-example'
 
-func_model_path = '/home/user/model/Qwen2.5-Coder-7B'
-load_previous_func = False
-base_url = "http://192.168.12.43:8000/v1"
-api_key = 'token-example'
+
 detector_model_path = '../roberta-base/'
 
-
+load_previous_func = False
 
 # flag for sequence control
 generate_detector_from_scratch = False
 generate_generator_from_scratch = True
+train_detector = True
 save_detector_training_result = True
 save_pseudo_label_result = True
 
@@ -195,13 +196,12 @@ for index in range(len(dirty_table)):
             detector_test.append([context_cell,detect_cell,0])
             
 train_all = pd.DataFrame(detector_train).sample(frac=1)
-train_dataset = DittoDataset(train_all,max_len=128,lm = detector_model_path)
+
 
 test_all = pd.DataFrame(detector_test)
-valid_dataset = DittoDataset(pd.DataFrame(detector_ground_truth),max_len=128,lm = detector_model_path)
 
-test_dataset_sample = DittoDataset(test_all.sample(n=1000),max_len=128,lm = detector_model_path)
-test_dataset = DittoDataset(pd.DataFrame(detector_test),max_len=128,lm = detector_model_path)
+
+
 ## whether to save training files
 if save_detector_training_result:
     os.makedirs('PyG_Dataset/{}/detector'.format(dataset_name),exist_ok=True)
@@ -210,32 +210,41 @@ if save_detector_training_result:
     valid_all =pd.DataFrame(detector_ground_truth)
     valid_all.to_csv('PyG_Dataset/{}/detector/valid.csv'.format(dataset_name))
 
+if save_pseudo_label_result:
+    np.save('output/{}/detector/detector_train_list.npy'.format(dataset_name),detector_train_list)
+
+
 print(len(train_all))
 ## Start Training
 
-hp_simple = SimpleNamespace(task='{}-detector-train'.format(dataset_name),
-                     batch_size=64,
-                     max_len=128,
-                     lr=3e-5,
-                     n_epochs=epoch,
-                     save_model=True,
-                     logdir="detector_model/", ## Checkpoint save path
-                     lm=detector_model_path, ## roberta-base model, please change to your own model path
-                     fp16=True,
-                     alpha_aug=0.8)
+if train_detector:
+    from ditto.model import DittoModel,DittoDataset,load_model,to_str,classify,train,simple_train,simple_train_update
+    train_dataset = DittoDataset(train_all,max_len=128,lm = detector_model_path)
+    valid_dataset = DittoDataset(pd.DataFrame(detector_ground_truth),max_len=128,lm = detector_model_path)
+    test_dataset_sample = DittoDataset(test_all.sample(n=1000),max_len=128,lm = detector_model_path)
+    test_dataset = DittoDataset(pd.DataFrame(detector_test),max_len=128,lm = detector_model_path)
 
-model_output = simple_train(train_dataset,valid_dataset,test_dataset_sample,hp_simple)
+    hp_simple = SimpleNamespace(task='{}-detector-train'.format(dataset_name),
+                        batch_size=64,
+                        max_len=128,
+                        lr=3e-5,
+                        n_epochs=epoch,
+                        save_model=True,
+                        logdir="detector_model/", ## Checkpoint save path
+                        lm=detector_model_path, ## roberta-base model, please change to your own model path
+                        fp16=True,
+                        alpha_aug=0.8)
 
-start_time = time.time()
-predict = classify(test_dataset,model=model_output,lm=detector_model_path,max_len=128,threshold=0.5) ## Inference
-end_time = time.time()
-print(f"inference time：{end_time - start_time} s")
-print("prec: ", precision_score(y_pred=predict[0],y_true=test_all.iloc[:,-1].astype(int)), " recall: ",  recall_score(y_pred=predict[0],y_true=test_all.iloc[:,-1].astype(int)), ", f1: ", f1_score(y_pred=predict[0],y_true=test_all.iloc[:,-1].astype(int)))
+    model_output = simple_train(train_dataset,valid_dataset,test_dataset_sample,hp_simple)
 
-## save detection result
-detection_result = np.array(predict[0]).reshape(len(dirty_table),len(dirty_table.columns))
-np.save('output/{}/detector/detection_result.npy'.format(dataset_name),detection_result)
+    start_time = time.time()
+    predict = classify(test_dataset,model=model_output,lm=detector_model_path,max_len=128,threshold=0.5) ## Inference
+    end_time = time.time()
+    print(f"inference time：{end_time - start_time} s")
+    print("prec: ", precision_score(y_pred=predict[0],y_true=test_all.iloc[:,-1].astype(int)), " recall: ",  recall_score(y_pred=predict[0],y_true=test_all.iloc[:,-1].astype(int)), ", f1: ", f1_score(y_pred=predict[0],y_true=test_all.iloc[:,-1].astype(int)))
+
+    ## save detection result
+    detection_result = np.array(predict[0]).reshape(len(dirty_table),len(dirty_table.columns))
+    np.save('output/{}/detector/detection_result.npy'.format(dataset_name),detection_result)
 
 ## save pseudo_label result
-if save_pseudo_label_result:
-    np.save('output/{}/detector/detector_train_list.npy'.format(dataset_name),detector_train_list)
