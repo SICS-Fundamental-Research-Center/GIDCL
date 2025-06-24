@@ -16,7 +16,6 @@ config/
 # 忽略所有 .bin 文件和 .pt 文件
 *.bin
 *.pt
-*.npy
 *.safetensors
 *.zip
 
