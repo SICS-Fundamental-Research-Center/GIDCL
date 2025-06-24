@@ -9,7 +9,7 @@ PyG/*
 raha_result/*
 rotom_result/*
 notebook/*
-
+config/
 # 不忽略子文件夹的名称
 !lora_weight/*/
 
