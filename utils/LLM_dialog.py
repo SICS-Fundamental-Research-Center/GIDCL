@@ -78,6 +78,8 @@ class DetectorRule:
             overwrite_func_list: bool = True,
             max_detector_retries: int = 30,
             multi_turn_dialogue: bool = True,
+            iterative_detector_retries: int = 10,
+            iterative_detector_thres: float = 0.95,
         ) -> List[Dict]:
             func_list_filepath = os.path.join(output_path, 'function_list.npy')
 
@@ -115,7 +117,7 @@ class DetectorRule:
 
                     buffer_text = ''
                     multi_turn_dialog = ''
-
+                    best_f1 = 0.0
                     for detector_time in range(max_detector_retries):
                         print(f"Attempting to generate and validate rule (Column: {col_name}, Attempt: {detector_time + 1}/{max_detector_retries})...")
                         
@@ -176,13 +178,25 @@ class DetectorRule:
                                 FN_buffer.append(dirty_value)
 
                         detector_f1 = calculate_f1_with_smoothing(tp=TP, fp=FP, fn=FN)
-
                         if detector_f1 > self.detector_thres:
-                            function_list[i]['detector_prompt_input'] = detector_inference_final + multi_turn_dialog
-                            function_list[i]['detector_prompt_output'] = detector_func_raw
-                            function_list[i]['detector_func_code'] = detector_func_code
-                            function_list[i]['detector_prompt_f1'] = detector_f1
-                            print(f'Function successful! Dataset: {dataset_name}, Attribute: {col_name}, F1: {detector_f1:.4f}, Attempts: {detector_time + 1}.')
+                            if detector_f1 > best_f1:
+                                best_f1 = detector_f1
+                                function_list[i]['detector_prompt_input'] = detector_inference_final + multi_turn_dialog
+                                function_list[i]['detector_prompt_output'] = detector_func_raw
+                                function_list[i]['detector_func_code'] = detector_func_code
+                                function_list[i]['detector_prompt_f1'] = detector_f1
+                                print(f"New best F1 score {detector_f1:.4f} found for column {col_name} at attempt {detector_time + 1}.")
+                            if detector_f1 < iterative_detector_thres and detector_time < iterative_detector_retries:
+                                print(f"F1 score {detector_f1:.4f} is below threshold {iterative_detector_thres}, retrying...")
+                                continue
+                            elif detector_f1 >= iterative_detector_thres:
+                                print(f'Function successful! Dataset: {dataset_name}, Attribute: {col_name}, F1: {detector_f1:.4f}, Attempts: {detector_time + 1}.')
+                                break
+                            elif detector_f1 < iterative_detector_thres and detector_time >= iterative_detector_retries:
+                                print(f'Function failed to meet the threshold after maximum recommendation retries. Dataset: {dataset_name}, Attribute: {col_name}, F1: {detector_f1:.4f}, Attempts: {detector_time + 1}.')
+                                break
+                        elif best_f1 > self.detector_thres and detector_time > iterative_detector_retries: ## early stop with best f1 result
+                            print(f'Function failed to meet the recommended threshold but best F1 is {best_f1:.4f}. Dataset: {dataset_name}, Attribute: {col_name}, Attempts: {detector_time + 1}.')
                             break
                         else:
                             buffer_text = ''
@@ -196,7 +210,6 @@ class DetectorRule:
                             if detector_time == max_detector_retries - 1:
                                 print(f"Reached maximum attempts ({max_detector_retries}), failed to generate a satisfactory function for column {col_name}.")
                             continue
-
                 else:
                     print(f"No dirty/clean pairs found for column {col_name}, skipping function generation.")
                     function_list[i] = {
@@ -222,6 +235,8 @@ class DetectorRule:
         max_generator_retries: int = 30,
         generate_thres: float = 0.8,
         multi_turn_dialogue: bool = False,
+        iterative_generator_retries: int = 10,
+        iterative_generator_thres: float = 0.95,
     ) -> Dict[int, Dict[str, Any]]:
 
         for i in np.where(np.array(outlier).sum(axis=0))[0]:
@@ -242,7 +257,7 @@ class DetectorRule:
                 generator_inference_final = generator_inference_generate + case_prompt + case
                 buffer_text = ''
                 multi_turn_dialog = ''
-                for generate_times in range(30):
+                for generate_times in range(max_generator_retries):
                     if multi_turn_dialogue and generate_times <15:
                         chat = generator_inference_final + multi_turn_dialog
                     else:
@@ -277,6 +292,7 @@ class DetectorRule:
                         generate_f1 = 0
                     else:
                         generate_f1 = count / count_base
+                    
                     if generate_f1> generate_thres:
                         print('function success for dataset {} attribute {} with f1:{} at {} times try'.format(dataset_name,col_name,generate_f1,generate_times))
                         function_list[i]['generator_prompt_input'] = generator_inference_final + multi_turn_dialog

@@ -64,7 +64,7 @@ detector_model_path = '../roberta-base/'
 load_previous_func = False
 
 # flag for sequence control
-generate_detector_from_scratch = False
+generate_detector_from_scratch = True
 generate_generator_from_scratch = True
 train_detector = False
 save_detector_training_result = True
@@ -72,6 +72,8 @@ save_pseudo_label_result = True
 
 ### define threshold
 detector_thres = 0.71
+iterative_detector_thres = 0.95
+iterative_detector_retries = 10
 generate_thres = 0.71
 correction_thres = 0.75
 # augment_maximum =  60
@@ -110,7 +112,9 @@ if generate_detector_from_scratch:
         dataset_name=dataset_name,
         overwrite_func_list=True, # 首次运行通常为 True，后续迭代可以为 False
         max_detector_retries=30, # 减少尝试次数以加快测试
-        multi_turn_dialogue = True
+        multi_turn_dialogue = False,
+        iterative_detector_thres = iterative_detector_thres,
+        iterative_detector_retries = iterative_detector_retries,
     )
 else:
     function_list = np.load('output/{}/detector/function_list.npy'.format(dataset_name),allow_pickle=True).item() ## load_previous result
@@ -125,7 +129,7 @@ if generate_generator_from_scratch:
         dataset_name=dataset_name,
         max_generator_retries=30, 
         generate_thres = generate_thres,
-        multi_turn_dialogue = True
+        multi_turn_dialogue = False
     )
     np.save('output/{}/detector/function_list_generator.npy'.format(dataset_name),function_list_result)
 else:
