@@ -28,7 +28,8 @@ from torch_geometric.data import (
 import json
 from FlagEmbedding import FlagModel
 import shutil
-from utils.load_dataset import DatasetLoader,GSLDataset
+from utils.load_dataset import DatasetLoader
+from utils.load_GSL_dataset import GSLDataset
 from utils.generate_file import DataProcessor
 from utils.graph_train import GraphTrainer
 from utils.semantic_embedding import SemanticEmbedder

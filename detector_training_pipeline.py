@@ -19,7 +19,7 @@ import json
 import time
 # from FlagEmbedding import FlagModel
 import shutil
-from utils.load_dataset import DatasetLoader,GSLDataset
+from utils.load_dataset import DatasetLoader
 # from utils.generate_file import DataProcessor
 # from utils.graph_train import GraphTrainer
 # from utils.semantic_embedding import SemanticEmbedder
@@ -64,7 +64,7 @@ detector_model_path = '../roberta-base/'
 load_previous_func = False
 
 # flag for sequence control
-generate_detector_from_scratch = True
+generate_detector_from_scratch = False
 generate_generator_from_scratch = True
 train_detector = False
 save_detector_training_result = True
