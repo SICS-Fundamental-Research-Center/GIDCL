@@ -130,7 +130,7 @@ class DetectorRule:
                             messages=[ 
                                 {"role": "user", "content": chat_input},
                             ],
-                            timeout = 60
+                            timeout = 600
                         )
                         detector_func_raw = completion.choices[0].message.content
                         detector_func_code = detector_func_raw
@@ -252,7 +252,7 @@ class DetectorRule:
                     messages=[
                         {"role": "user", "content": chat}
                     ],
-                    timeout = 60
+                    timeout = 600
                     )
                     generator_func = completion.choices[0].message.content
                     count = 0

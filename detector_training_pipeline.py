@@ -17,14 +17,14 @@ from sklearn.cluster import KMeans
 
 import json
 import time
-from FlagEmbedding import FlagModel
+# from FlagEmbedding import FlagModel
 import shutil
 from utils.load_dataset import DatasetLoader,GSLDataset
-from utils.generate_file import DataProcessor
-from utils.graph_train import GraphTrainer
-from utils.semantic_embedding import SemanticEmbedder
-from utils.func import cluster_by_attribute,sort_clusters_by_members_length,split_into_clusters
-from utils.clustering import ClusterAnalyzer,KMeansClusterer
+# from utils.generate_file import DataProcessor
+# from utils.graph_train import GraphTrainer
+# from utils.semantic_embedding import SemanticEmbedder
+# from utils.func import cluster_by_attribute,sort_clusters_by_members_length,split_into_clusters
+# from utils.clustering import ClusterAnalyzer,KMeansClusterer
 from utils.LLM_dialog import DetectorRule
 from utils.func import extract_first_function,execute_first_function,calculate_f1_with_smoothing,find_unique_false_rows,extract_and_make_callable
 
@@ -41,7 +41,7 @@ parser.add_argument('--config_path', type=str, default='',help='config for onlin
 args = parser.parse_args()
 
 dataset_name = args.dataset_name
-base_path = args.base_path
+base_path = args.base_path 
 config_path = args.config_path
 output_directory = 'output/{}/detector'.format(dataset_name)
 
@@ -64,9 +64,9 @@ detector_model_path = '../roberta-base/'
 load_previous_func = False
 
 # flag for sequence control
-generate_detector_from_scratch = False
+generate_detector_from_scratch = True
 generate_generator_from_scratch = True
-train_detector = True
+train_detector = False
 save_detector_training_result = True
 save_pseudo_label_result = True
 
